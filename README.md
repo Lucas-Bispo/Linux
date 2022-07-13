@@ -113,15 +113,7 @@
   ## 🔎 Demonstração
   
   <img alt="Application demo GIF" src=".github/Coffe.gif">
-  
-  ## 💻 Como acessar
-  
- ## A aplicação está hospedada na  e pode ser acessada [aqui](https://rocket-coffee-gray.vercel.app).##
-  
-  ## 🛠️ Tecnologias utilizadas
-  
-  <h3 align="center">🖥️ Front-End</h3>
-  
+
   <table align="center">
     <tbody>  
     </tbody>
@@ -132,6 +124,6 @@
   
   ## 🚀 Desenvolvido em
   
-  27 de Jun. de 2022
+  ... de ... de ...
   
   <p align="center">✨ Feito com muito foco por <a href="https://github.com/Lucas-Bispo"><strong>Lucas Bispo</strong></a> ✨</p>
