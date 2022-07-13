@@ -27,4 +27,4 @@ Acompanhe alguns exemplos a seguir:
 
 <img alt="Discover" src="https://user-images.githubusercontent.com/60610011/178755606-eae0677c-b11c-47c8-8960-4199dd995696.png">
 
-<img alt="Discover" src="hhttps://user-images.githubusercontent.com/60610011/178756085-9c586d33-49a9-4771-b381-587556fceb71.png">
+<img alt="Discover" src="https://user-images.githubusercontent.com/60610011/178756085-9c586d33-49a9-4771-b381-587556fceb71.png">
