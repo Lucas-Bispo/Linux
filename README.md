@@ -31,6 +31,7 @@
   - Usuários.
   - Grupo.
   - Outros.
+
     
     <img alt="Discover" src="https://user-images.githubusercontent.com/60610011/177796932-7c609928-4b63-4659-a877-ebb1282bc1cd.png">
 
@@ -48,6 +49,9 @@
   O GERENCIADOR DE PACOTES DPKG
 
   O dpkg foi criado para instalar pacotes (.deb) na distribuição Debian. O dpkg é o mais popular, sendo utilizado por outras distribuições, como Ubuntu, KNOPPIX, etc., para instalar pacotes.
+
+
+  
   <img alt="Discover" src="https://user-images.githubusercontent.com/60610011/178741056-e03809b1-a037-4ca9-bc67-a29e60a30352.png">
   
 
